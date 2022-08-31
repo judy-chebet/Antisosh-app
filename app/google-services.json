@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713402138112",
+    "project_id": "antisosh-app",
+    "storage_bucket": "antisosh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713402138112:android:1cecfd221b62f4e8c562e5",
+        "android_client_info": {
+          "package_name": "com.example.antisoshapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713402138112-fd4psbjtksm03ola48r25qcnt4k5g4a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC77-7UgYrBWo8qfI4Z4wqoLZOiybP_zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713402138112-fd4psbjtksm03ola48r25qcnt4k5g4a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
